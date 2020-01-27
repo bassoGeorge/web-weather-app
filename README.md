@@ -1,7 +1,5 @@
-# React Starter kit
+# Weather App
 
-Includes the following:
-* Latest React...
-* Jest setup for testing with separate unit and integration test runs
-* Styled-Components integration
-* StoryBook integration
+You know what it does. [WIP]
+
+Just a personal learning project. Design inspiration from https://dribbble.com/shots/9325012-Weather-App
